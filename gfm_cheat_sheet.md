@@ -25,7 +25,7 @@ I read this interesting quote the other day:
 
 
 #CODE SNIPPET WITH SYNTAX HIGHLIGHTING
-```C++
+```c++
 #include <iostream>
 using namespace std;
 
