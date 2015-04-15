@@ -26,3 +26,6 @@ These are the modifications needed to make sure the tool is running to completio
 - COMMAND: The full command (with arguments) to run the executable.
 
 After the modifications, all you need to do is run the runpinpoints.template.sh script. You probably don't need the controller tool running at the end of the script so you can save a few minutes by removing it.
+
+Pin Installation: TODO
+Simpoints installation: TODO
